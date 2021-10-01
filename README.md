@@ -1,1 +1,0 @@
-# hubspot-integrations-exercise
